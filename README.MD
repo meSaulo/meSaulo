@@ -4,11 +4,7 @@
 
 ###
 
-<p align="center">
-  I'm a BackEnd Developer, focussed on the Java and PHP languages. I'm currently studying systems development.
-
-  In this profile you'll find my personal projects and my journey to improve my skills. 
-</p>
+<p align="center">I'm a BackEnd Developer, focussed on the Java and PHP languages. I'm currently studying systems development.<br><br>In this profile you'll find my personal projects and my journey to improve my skills.</p>
 
 ###
 
