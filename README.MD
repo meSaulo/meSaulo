@@ -72,14 +72,17 @@
 
 ###
 
+<h2 align="center">Statistics</h2>
+
 <div align="center">
+
+![Saulo](https://github-readme-stats.vercel.app/api?username=meSaulo&theme=aura&show_icons=true)
+![Saulo](https://streak-stats.demolab.com/?user=mesaulo&theme=aura)
+
+
 </div>
 
 ###
-
-<h2 align="center">Statistics</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meSaulo&theme=transparent&show_icons=true)
 
 
 
