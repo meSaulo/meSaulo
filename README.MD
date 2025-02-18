@@ -77,7 +77,7 @@
 <div align="center">
 
 ![Saulo](https://github-readme-stats.vercel.app/api?username=meSaulo&theme=aura&show_icons=true)
-![Saulo](https://streak-stats.demolab.com/?user=mesaulo&theme=aura)
+
 
 
 </div>
