@@ -77,4 +77,10 @@
 
 ###
 
+<h2 align="center">Statistics</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meSaulo&theme=transparent&show_icons=true)
+
+
+
 
