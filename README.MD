@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">S.O</h3>
+<h3 align="left">O.S</h3>
 
 ###
 
